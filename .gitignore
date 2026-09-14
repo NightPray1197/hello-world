@@ -1,0 +1,30 @@
+# Keil 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.o
+*.hex
+*.bin
+*.axf
+*.map
+*.crf
+*.d
+*.su
+*.iex
+*.sct
+*.lnp
+*.plg
+
+# STM32CubeIDE 编译产物
+Debug/
+Release/
+.settings/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器个人设置
+.vscode/
+.idea/
